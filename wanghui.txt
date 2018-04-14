@@ -1,0 +1,4 @@
+前台：http://wh1711mvcweb.duapp.com/mvcweb/index.php
+后台：http://wh1711mvcweb.duapp.com/mvcweb/index.php?m=admin
+账号：admin
+密码：123456
